@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Log In | HyperGraph</title>
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <script src="js/html5.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/connection.js"></script>
+    <script src="js/error.js"></script>
+  </head>
+
+  <body>
+  	<div id="login-container">
+  		<div id="login-upper">
+	  	    <div id="brand"><a href="main.jsp">HyperGraph</a></div>
+		    <span id="descr">Find out what’s happening, right now, with the people you care about.</span>
+			<form method="get" action="javascript:(function(){return;}) ()" onsubmit="javascript:process_login(this)" class="form-sign">
+				<input type="text" class="login" name="username" placeholder="Username">
+				<input type="password" class="login" name="password" placeholder="Password">
+				<button class="btn" type="submit">Sign in</button>
+				<a href="signup.html" class="signup">New to HyperGraph? Sign up</a>
+			</form>
+	   	</div>
+		<div id="login-footer">&copy; 2013 HyperGraph</div>
+	</div>
+  </body>
+</html>

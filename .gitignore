@@ -1,0 +1,5 @@
+*.class
+*DBStatic.java
+*.DS_Store
+build/*
+*context.xml

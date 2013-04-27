@@ -1,0 +1,9 @@
+package bd;
+
+public class DBStatic {
+	public static boolean mysql_pooling = true;
+	public static String mysql_host = "addr_host:port";
+	public static String mysql_db = "db_name";
+	public static String mysql_username = "db_username";
+	public static String mysql_password = "db_password";
+}
