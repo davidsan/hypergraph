@@ -5,6 +5,7 @@ Hypergraph est un web service de micro-blogging similaire à Twitter.
 
 
 ![](img/screen-main-min.png)
+
 [bigger](img/screen-main.png)
 
 ## Technologies utilisées
@@ -64,16 +65,38 @@ Voir le Wiki pour plus de détails.
 ## Screenshots
 
 ![](img/screen-welcome-min.png)
+
 [bigger](img/screen-welcome.png)
 
+
 ![](img/screen-main-min.png)
+
 [bigger](img/screen-main.png)
 
+
 ![](img/screen-self-min.png)
+
 [bigger](img/screen-self.png)
 
+
 ![](img/screen-signup-min.png)
+
 [bigger](img/screen-signup.png)
 
+
 ![](img/screen-login-min.png)
+
 [bigger](img/screen-login.png)
+
+
+## Licence
+
+(Licence MIT)
+
+Copyright © David San
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
