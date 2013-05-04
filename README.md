@@ -4,8 +4,7 @@ Hypergraph est un web service de micro-blogging similaire à Twitter.
 
 
 
-![](img/screen-main-min.png)
-[bigger](img/screen-main.png)
+![](img/screen-main.png)
 
 ## Technologies utilisées
 
@@ -63,17 +62,12 @@ Voir le Wiki pour plus de détails.
 
 ## Screenshots
 
-![](img/screen-welcome-min.png)
-[bigger](img/screen-welcome.png)
+![](img/screen-welcome.png)
 
-![](img/screen-main-min.png)
-[bigger](img/screen-main.png)
+![](img/screen-main.png)
 
-![](img/screen-self-min.png)
-[bigger](img/screen-self.png)
+![](img/screen-self.png)
 
-![](img/screen-signup-min.png)
-[bigger](img/screen-signup.png)
+![](img/screen-signup.png)
 
-![](img/screen-login-min.png)
-[bigger](img/screen-login.png)
+![](img/screen-login.png)
